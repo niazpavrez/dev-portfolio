@@ -1,0 +1,32 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+.Blue-color{
+    color: blue;
+}
+h3{
+    font-size: 30px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:80%;
+    padding-left: 20%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(77, 77, 199), skyblue);
+    padding: 10px 40px;
+    color: white
+    font-weight: 200;
+    border-radius: 5px;
+
+}
